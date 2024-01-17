@@ -1,0 +1,9 @@
+2024/01/14-23:40:22.050 148c6 Reusing MANIFEST /home/xd/.config/discord/Local Storage/leveldb/MANIFEST-000001
+2024/01/14-23:40:22.050 148c6 Recovering log #9
+2024/01/14-23:40:22.050 148c6 Reusing old log /home/xd/.config/discord/Local Storage/leveldb/000009.log 
+2024/01/14-23:43:06.055 14959 Level-0 table #13: started
+2024/01/14-23:43:06.082 14959 Level-0 table #13: 717344 bytes OK
+2024/01/14-23:43:06.085 14959 Delete type=0 #9
+2024/01/14-23:44:17.009 14959 Level-0 table #15: started
+2024/01/14-23:44:17.024 14959 Level-0 table #15: 2060306 bytes OK
+2024/01/14-23:44:17.027 14959 Delete type=0 #12

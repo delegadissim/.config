@@ -1,0 +1,4 @@
+# BEGIN_KITTY_THEME
+# Smyck
+include current-theme.conf
+# END_KITTY_THEME

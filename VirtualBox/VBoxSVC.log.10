@@ -1,0 +1,15 @@
+00:00:00.000144 main     VirtualBox XPCOM Server 7.0.12 r159484 linux.amd64 (Oct 17 2023 12:57:12) release log
+00:00:00.000145 main     Log opened 2024-01-14T20:20:45.655099000Z
+00:00:00.000145 main     Build Type: release
+00:00:00.000146 main     OS Product: Linux
+00:00:00.000147 main     OS Release: 6.6.10-arch1-1
+00:00:00.000147 main     OS Version: #1 SMP PREEMPT_DYNAMIC Fri, 05 Jan 2024 16:20:41 +0000
+00:00:00.000159 main     DMI Product Name: System Product Name
+00:00:00.000162 main     DMI Product Version: System Version
+00:00:00.000164 main     Firmware type: UEFI
+00:00:00.000298 main     Secure Boot: Disabled
+00:00:00.000314 main     Host RAM: 31904MB (31.1GB) total, 29436MB (28.7GB) available
+00:00:00.000315 main     Executable: /usr/lib/virtualbox/VBoxSVC
+00:00:00.000315 main     Process ID: 45683
+00:00:00.000316 main     Package type: LINUX_64BITS_GENERIC (OSE)
+00:00:00.001007 main     IPC socket path: /tmp/.vbox-xd-ipc/ipcd
