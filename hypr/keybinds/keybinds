@@ -53,6 +53,9 @@ bind = $mainMod, S, togglespecialworkspace, magic
 # Provar notificacions
 bind = CTRL ALT, N, exec, /home/xd/.config/scripts/swwww/relaunch
 
+# Borrar wallpaper 
+bind = CTRL ALT, B, exec, .config/scripts/swwww/borrar_wallpaper.sh 
+
 # Scroll through existing workspaces with mainMod + scroll
 bind = $mainMod, mouse_down, workspace, e+1
 bind = $mainMod, mouse_up, workspace, e-1

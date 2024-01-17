@@ -1193,3 +1193,19 @@
 2024-01-15T22:28:37.382Z [Modules] Host is up to date.
 2024-01-15T22:28:37.382Z [Modules] Checking for module updates at https://discord.com/api/modules/stable/versions.json
 2024-01-15T22:28:37.406Z [Modules] No module updates available.
+2024-01-17T16:48:12.534Z [Modules] Modules initializing
+2024-01-17T16:48:12.534Z [Modules] Distribution: remote
+2024-01-17T16:48:12.534Z [Modules] Host updates: enabled
+2024-01-17T16:48:12.534Z [Modules] Module updates: enabled
+2024-01-17T16:48:12.534Z [Modules] Module install path: /home/xd/.config/discord/0.0.40/modules
+2024-01-17T16:48:12.534Z [Modules] Module installed file path: /home/xd/.config/discord/0.0.40/modules/installed.json
+2024-01-17T16:48:12.535Z [Modules] Module download path: /home/xd/.config/discord/0.0.40/modules/pending
+2024-01-17T16:48:12.760Z [Modules] No updates to install
+2024-01-17T16:48:12.760Z [Modules] Checking for host updates.
+2024-01-17T16:48:13.034Z [Modules] Host is up to date.
+2024-01-17T16:48:13.034Z [Modules] Checking for module updates at https://discord.com/api/modules/stable/versions.json
+2024-01-17T16:48:13.096Z [Modules] No module updates available.
+2024-01-17T16:48:14.549Z [Modules] Checking for host updates.
+2024-01-17T16:48:14.763Z [Modules] Host is up to date.
+2024-01-17T16:48:14.763Z [Modules] Checking for module updates at https://discord.com/api/modules/stable/versions.json
+2024-01-17T16:48:14.764Z [Modules] No module updates available.
