@@ -12,7 +12,7 @@
       <ExtraDataItem name="GUI/GroupDefinitions/NextCloud (IAW)" value="m=33e96d19-e004-4380-af03-5dde0111b26a,m=00d5b34a-8c44-4400-b224-d08d8f4188b4"/>
       <ExtraDataItem name="GUI/GroupDefinitions/SXI" value="m=d2157cb8-f4ed-4b4e-adc4-4ac87d6e17b3,m=ad144979-fa9e-4d6e-9143-6e3b29ef890b,m=c831328b-513e-42f5-89a5-8f6910335ad3"/>
       <ExtraDataItem name="GUI/LastItemSelected" value="m=ad144979-fa9e-4d6e-9143-6e3b29ef890b"/>
-      <ExtraDataItem name="GUI/LastWindowPosition" value="2577,568,1886,495"/>
+      <ExtraDataItem name="GUI/LastWindowPosition" value="2577,59,1886,1004"/>
       <ExtraDataItem name="GUI/RecentFolderCD" value="/run/media/xd/Disc dur/ISOs"/>
       <ExtraDataItem name="GUI/RecentListCD" value="/run/media/xd/Disc dur/ISOs/ubuntu-mate-22.04.3-desktop-amd64.iso"/>
       <ExtraDataItem name="GUI/SuppressMessages" value="confirmInputCapture,confirmResetMachine,confirmGoingFullscreen"/>
